@@ -1,4 +1,4 @@
-[![MasterHead](https://www.istockphoto.com/tr/foto%C4%9Fraf/java-programlama-konsepti-sanal-makine-sunucu-odas%C4%B1-arka-planda-gm1131109259-299384111?phrase=java+programlama+dili)
+
 <h1 align="center">Hi 👋, I'm Yağmur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagmurcurku&label=Profile%20views&color=0e75b6&style=flat" alt="yagmurcurku" /> </p>
 
