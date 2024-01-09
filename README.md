@@ -51,8 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yagmurcurku/yagmurcurku/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
