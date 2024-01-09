@@ -1,6 +1,6 @@
 <h2 align="center">Hi 🙋🏽‍♀️, I'm Yağmur 🙃</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yagmurcurku&label=Profile%20views&color=0e75b6&style=flat" alt="yagmurcurku" /> </p>
+
 
 ###
 
