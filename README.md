@@ -2,7 +2,9 @@
 
 
 
-💫 I’m currently learning Java and React. I attend various trainings to improve these skills and I share here the projects I created with the knowledge I gained in these trainings.
+💫 I’m currently learning Java and React.
+
+👩‍💻 I attend various trainings to improve these skills and I share here the projects I created with the knowledge I gained in these trainings.
 
 ###
 
