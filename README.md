@@ -32,9 +32,9 @@
 
 
 
-
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagmurcurku&show_icons=true&locale=en" alt="yagmurcurku" /></p>
-
+</div>
 
 <br clear="both">
 
